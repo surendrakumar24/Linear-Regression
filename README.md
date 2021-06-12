@@ -1,2 +1,2 @@
 # Linear-Regression
-Housing Price prediction 
+Car Price prediction 
